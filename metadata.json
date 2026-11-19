@@ -1,0 +1,6 @@
+{
+  "name": "Haven Estates",
+  "description": "Discover verified homes, apartments, land, and commercial properties for sale and rent across Nigeria with Haven Estates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
